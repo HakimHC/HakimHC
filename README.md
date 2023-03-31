@@ -23,3 +23,8 @@ Here are some of the tools and technologies I'm comfortable working with:
 ---
 ### Thank you for checking out my profile!
 ---
+<p>
+  <a href="https://github.com/HakimHC">
+    <img src="https://github-readme-stats.vercel.app/api?username=HakimHC&show_icons=true&theme=radical" alt="GitHub stats" />
+  </a>
+</p>
