@@ -1,5 +1,5 @@
 # Hi there, I'm Hakim 👋
-I'm a student at 42Madrid learning C and C++, and I'm also a Cloud Engineer on Azure. I mainly know Python and have minor knowledge in web development.
+I'm a student at 42Madrid learning C and C++, and I'm also a Cloud Engineer on Azure. I mainly know Python, C, C++ and have minor knowledge in web development.
 
 ## 🔭 Currently working on:
 
