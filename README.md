@@ -6,10 +6,10 @@
 ### <div align="center">Hi there!👋  I'm Hakim, A Passionate Software Engineer And Cloud Architect🚀</div>  
   
 
-- 🔭 I’m currently studying at [42Madrid](https://www.42network.org/).  
+- 🔭 I’m currently working as a Data Engineer at [The Cocktail](https://the-cocktail.com/).  
   
 
-- 🌱 I’m currently learning cloud development on Azure.  
+- 🌱 I’m currently studying at [42Madrid](https://www.42network.org/).  
   
 
 -  ⭐ I'm an highly experienced in C / C++ / Shell Scripting with Bash / Linux.  
