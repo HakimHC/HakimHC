@@ -6,7 +6,7 @@
 ### <div align="center">Hi there!👋  I'm Hakim, A Passionate Software Engineer And Cloud Architect🚀</div>  
   
 
-- 🔭 I’m currently working as a Data Engineer at [The Cocktail](https://the-cocktail.com/).  
+- 🔭 I’m currently working as a Cloud Architect at [Altostratus, Telefónica Tech](https://altostratus.es/).  
   
 
 - 🌱 I’m currently studying at [42Madrid](https://www.42network.org/).  
